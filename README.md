@@ -52,7 +52,7 @@ And I think it's uncomfortable writing (typing?) about myself in the third perso
 3. I made a ridiculously long regex instead of checking if \b existed (regex: `(^|\s|[!]|[?]|[,]|[.]|[-])` before the word and `($|\s|[!]|[?]|[,]|[.]|[-])` after it)
 5. I'm invincible!
 3. It's "donut" not "doughnut" and "trimmer" not "whipper snipper" (the Aussies vehemently disagree with me on this).
-3. I wrote this big thing that you probably didn't want to read. But you're reading it anyway, so that's good I guess!
+3. I wrote this big thing when you probably just wanted to look at my stats (below). But you're reading it anyway, so that's good I guess!
 
 In conclusion:
 > My sanity check failed
