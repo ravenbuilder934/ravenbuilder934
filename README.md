@@ -34,25 +34,3 @@ She works as the [wiki](https://wiki.minecolonies.ldtteam.com/) admin and [custo
 She has an ever-present case of staircase wit, which caused her to add this sentence in the first place.
 
 And I think it's uncomfortable writing (typing?) about myself in the third person!
-
-
-
-# Why I'm Crazy
-
-*An essay by Raven*
-
-(In numerical order.)
-
-1. Ég set stundum inn á íslensku.
-3. Alsø in fakë Swëdysh.
-3. I make random references, especially in my Github commit names. Why? I don't know. (Third base! Third base!)
-3. I love to go off on tangents. Flowcharts are cool!
-4. I don't like chocolate (any type).
-2. I work in customer service/tech support. Self-explanatory.
-3. Bolb
-5. I'm invincible!
-3. It's "donut" not "doughnut" and "trimmer" not "whipper snipper" (the Aussies vehemently disagree with me on this).
-3. I wrote this big thing when you probably just wanted to look at my stats (below). But you're reading it anyway, so that's good I guess!
-
-In conclusion:
-> My sanity check failed
