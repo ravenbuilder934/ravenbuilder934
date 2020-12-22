@@ -34,3 +34,5 @@ She works as the [wiki](https://wiki.minecolonies.ldtteam.com/) admin and [custo
 She has an ever-present case of staircase wit, which caused her to add this sentence in the first place.
 
 And I think it's uncomfortable writing (typing?) about myself in the third person!
+
+<!-- Help I'm trapped in a Github bio factory -->
