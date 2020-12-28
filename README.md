@@ -7,7 +7,7 @@ Nickname?   Raven
 
 Age?    23
 
-Gender?   She/her
+Pronouns?   She/her/bolb
 
 Nationality?    American ~~Pie~~
 
